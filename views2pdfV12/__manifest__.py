@@ -15,7 +15,7 @@ This module will allow you to generate a pdf report from any views (FORM, TREE, 
 Based on https://www.odoo.com/apps/modules/10.0/views2pdf/ by Abderrahmen Khalledi.
 
     """,
-    'images': ['static/description/captivea_logo.png', 'static/description/img_list.png', 'static/description/img_graph.png', 'static/description/img_pivot.png'],
+    'images': ['static/description/captivea_logo.png'],
     'depends': ['base', 'web'],
     'data': ['views/assets.xml'],
     'qweb': ['static/src/xml/view.xml'],
