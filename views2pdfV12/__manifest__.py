@@ -4,7 +4,7 @@
 {
     'name': 'views2pdf',
     'version': '12',
-    'author': 'Captivea',
+    'author': 'captivea-jpa',
     'description': """
 Generate PDF from Views
 =========================
